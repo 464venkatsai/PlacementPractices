@@ -1,5 +1,17 @@
 body{
-    padding: 0 15%;
     margin-bottom: 2rem;
     padding-top: 1rem;
+    background-color: #e6e7ee;
+}
+body section{
+    border-radius: 5px;
+    padding: 5% 10%;
+    display: block;
+    box-shadow:  7px 7px 7px #bebebe,
+    -7px -7px 7px #f4f4f4;
+}
+body section center img{
+    box-shadow:  7px 7px 7px #bebebe,
+    -7px -7px 7px #f4f4f4;
+    border-radius: 20px;
 }
